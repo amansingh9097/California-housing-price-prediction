@@ -1,3 +1,3 @@
 # CaliforniaHousingPrices
-predicitng California's housing price preditions
+predicitng California's housing prices
 <img src="california-house-price-trends.PNG">
