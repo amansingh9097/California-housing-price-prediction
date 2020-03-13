@@ -1,19 +1,5 @@
 ---
-title: "California Housing Price Prediction"
-layout: post
-date: 2018-11-30 08:53
-tag:
-- PredictiveModelling
-- DataAnalysis
-- MachineLearning
-image: https://raw.githubusercontent.com/amansingh9097/amansingh9097.github.io/master/assets/img/uploads/california-housing-price/california-housing-price.png
-optimized_image:
-headerImage: true
-projects: true
-description: "An exploratory data analysis of California's Housing Prices and followed by a predictive model to predict the house prices provided the right attributes of the house."
-category: machine-learning
-author: Aman Singh
-
+# "California Housing Price Prediction"
 ---
 
 Let's first have a quick look at the dataset:
